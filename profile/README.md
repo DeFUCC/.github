@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="www.chromatone.center" target="_blank">
-      <img src="https://raw.githubusercontent.com/DeFUCC/.github/main/ukt.png" />
+      <img width="300" src="https://raw.githubusercontent.com/DeFUCC/.github/main/ukt.png" />
     </a>
   </p>
   <h1 align="center">DeFUCC</h1>
